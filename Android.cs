@@ -9,6 +9,8 @@ using System.Data;
 using System.IO;
 using UnityEngine.UI;
 
+// cheryl calma
+
 public class Android : MonoBehaviour
 {
     private string conn, sqlQuery;
